@@ -1,0 +1,15 @@
+{
+  "name": "aolabs-plantumlserver",
+  "version": "0.0.1",
+  "author": "aolabs",
+  "summary": "Deploy a PlantUML server listening on HTTP.",
+  "license": "LGPLv3",
+  "source": "https://github.com/aolabs/puppet-gollum.git",
+  "project_page": "https://github.com/aolabs/puppet-gollum",
+  "issues_url": "https://github.com/aolabs/puppet-gollum/issues",
+  "dependencies": [
+    {"name":"puppetlabs-stdlib","version_requirement":">= 1.0.0"}
+  ],
+  "data_provider": null
+}
+
